@@ -32,7 +32,7 @@ You will need:
 ## **3. Create the Virtual Machine**
 
 1. Open VMware Workstation and click **Create a New Virtual Machine**
-   ![alt text](images/images/1.png)
+   ![alt text](images/1.png)
 
 2. Choose **Typical (Recommended)** and click *Next*
 
